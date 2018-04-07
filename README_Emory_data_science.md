@@ -1,7 +1,10 @@
-Emory Courses on Topics Related to Data Science
+# Emory Courses on Topics Related to Data Science
 
+## IBS
 * IBS 538:  Statistical Design and Analysis of Experiments
 * IBS 574:  Computational Biology and Bioinformatics
+
+## BIOS
 
 * BIOS 516 (1) Introduction to Large- Scale Biomedical Data Analysis
 * BIOS 534 (2) Machine Learning
@@ -9,15 +12,23 @@ Emory Courses on Topics Related to Data Science
 * BIOS 555: High-throughput data analysis using R and Bioconductor (half a semester course, taken and recommended by many Genetics and Molecular Biology students). 
 * BIOS 570 (2) Introduction to Statistical Genetics
 
+## MATH
+
 * MATH116:  Life Sciences Calculus II
 * MATH221:  Linear Algebra 
 * MATH361:  Probability and Statistics I 
 
+## CS
+
 * CS153:  Computing for Bioinformatics
+
+## MSCR
 
 * MSCR 530 Analytic Methods for Clinical and Translational Research I (3 credits)
 * MSCR 533 Data Management (2 credits)
 * MSCR 597 Big Data to Knowledge (BD2K) in CTR Research (1 credit)
+
+## INFO
 
 * INFO 500(2) Principles of Public Health Informatics 
 * INFO 511 (3) Analytics
@@ -25,11 +36,16 @@ Emory Courses on Topics Related to Data Science
 * INFO 544 (2) Network Science in Public Health 
 * INFO 550 (2) Software Engineering
 
+## QTM
+
 * QTM120:  Math for quantitative sciences. Part 1 of the QTM courses which are recommended for students who want to brush up on topics in math and computer science before jumping into machine learning. 
 o This course is slated to be offered online in summer 2018. 
 * QTM210: . Part 1 of the QTM courses which are recommended for students who want to brush up on topics in math and computer science before jumping into machine learning. 
 o This course is slated to be offered online in summer 2018
-o 
+o
+
+## BUS
+
 * BUS 550 - Data and Decision Analytics (uses excel and SAS/LPM so nothing fancy programming wise, but a very well taught and practical course on how to make business decisions from data)
 * BUS 651 - Strategic Decision Analysis 
 * BUS 550 is a pre-req and again mostly uses excel but focuses on game theory concepts
