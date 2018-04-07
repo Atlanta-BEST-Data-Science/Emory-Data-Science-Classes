@@ -1,7 +1,7 @@
 Emory Courses on Topics Related to Data Science
 
-* IBS 538:  Statistical Design and Analysis of Experiments
-* IBS 574:  Computational Biology and Bioinformatics
+* IBS 538: Â Statistical Design and Analysis of Experiments
+* IBS 574: Â Computational Biology and Bioinformatics
 
 * BIOS 516 (1) Introduction to Large- Scale Biomedical Data Analysis
 * BIOS 534 (2) Machine Learning
@@ -9,11 +9,11 @@ Emory Courses on Topics Related to Data Science
 * BIOS 555: High-throughput data analysis using R and Bioconductor (half a semester course, taken and recommended by many Genetics and Molecular Biology students). 
 * BIOS 570 (2) Introduction to Statistical Genetics
 
-* MATH116:  Life Sciences Calculus II
-* MATH221:  Linear Algebra 
-* MATH361:  Probability and Statistics I 
+* MATH116: Â Life Sciences Calculus II
+* MATH221: Â Linear AlgebraÂ 
+* MATH361: Â Probability and Statistics IÂ 
 
-* CS153:  Computing for Bioinformatics
+* CS153: Â Computing for Bioinformatics
 
 * MSCR 530 Analytic Methods for Clinical and Translational Research I (3 credits)
 * MSCR 533 Data Management (2 credits)
